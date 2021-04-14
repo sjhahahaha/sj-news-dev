@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-article/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-files/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-files/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/1. 基础篇/后端/imooc-news-dev/imooc-news-dev-service-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-article-html/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-article-html/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-article/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-files/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-files/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/2. 进阶篇/后端/imooc-news-dev/imooc-news-dev-service-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-article-html/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-article-html/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-article/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-files/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-files/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/imooc-news-dev-service-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/springcloud-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/springcloud-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/springcloud-eureka-cluster/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/springcloud-eureka-cluster/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/springcloud-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/springcloud-zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-news/3. 微服务篇/后端/imooc-news-dev/springcloud-zuul-server/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
